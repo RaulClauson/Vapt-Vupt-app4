@@ -17,7 +17,7 @@
 }
 @media (max-width: 555px) {
   #Diagnostico_Box {
-    height: calc(100vh + 70px);
+    height: calc(100vh + 60px);
   }
 }
 .lite-badge {
