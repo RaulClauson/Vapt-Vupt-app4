@@ -79,7 +79,6 @@ function App() {
         {!loading && (
           <>
             {showTutorial && <Tutorial />}
-            <Tutorial />
             <Menu />
             <section className="section">
               <Routes>
